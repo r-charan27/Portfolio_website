@@ -6,10 +6,9 @@
 ---
 
 🌱 I’m currently learning:  
-`Deep Learning`, `Computer Vision`, `Full-Stack Development`, and `UPSC preparation`
-
+`Deep Learning`, `Computer Vision`, and `Full-Stack Development`
 🛠️ Technologies I work with:  
-`Python` | `TensorFlow` | `Scikit-learn` | `Streamlit` | `Flask` | `OpenCV` | `HTML/CSS`
+`Python` | `TensorFlow` | `Scikit-learn` | `Streamlit` | `Flask` | `OpenCV` | 
 
 💻 Projects include:  
 - ML + DL based **Lung Cancer Prediction App**
