@@ -40,6 +40,9 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=ramcharan-mummadi&color=blue)
+
+---
 
 ### 🧪 ORCID & LinkedIn
 - 🔗 [ORCID](https://orcid.org/0009-0006-2654-9837)
