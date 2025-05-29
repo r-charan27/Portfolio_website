@@ -40,13 +40,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
-  data-theme="light" data-type="VERTICAL"
-  data-vanity="ramcharan-mummadi-5973a72a3" data-version="v1">
-  <a class="badge-base__link LI-simple-link"
-  href="https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3/">Ramcharan Mummadi</a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramcharan-mummadi-5973a72a3/)
 
 
 ---
