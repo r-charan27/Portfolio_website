@@ -39,8 +39,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=ramcharan-mummadi&color=blue)
 
 ---
 
